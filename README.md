@@ -37,7 +37,7 @@ Tara's Timebound Tasks is a sleek and minimal **To-Do List web application** tha
 
 ## 🧑‍💻 How to Use Locally
 
-# Clone the repository
+ Clone the repository
 git clone https://github.com/sourabhchetan/tara-to-do-list.git
 
 # Open the index.html file in your browser
